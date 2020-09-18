@@ -14,8 +14,8 @@ The contents of this electronic resource will be updated throughout the term. Yo
 
 * [Lecture Slides](./Slides)
 
-* [Links and Explanations]() 
+* [Supplementary Notebook 1](Notebook-Part1.ipynb) [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/aronwalsh/Crystallography/master?filepath=Notebook-Part1.ipynb)
 
-* [Class Exercises]()
+* [Self-Check Exercises]()
 
 * [Post a Query](https://github.com/aronwalsh/Crystallography/issues)
