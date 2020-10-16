@@ -14,6 +14,8 @@ The contents of this electronic resource will be updated throughout the term. Yo
 
 * [Lecture Slides](./Slides)
 
+* [Lecture Recordings](https://web.microsoftstream.com/user/bc4d5f61-f0c2-44fb-979b-ea605580aa97?view=UserVideos) (ICL access only)
+
 * [Activity Notebook 1](Notebook-Part1.ipynb) [[Live version on Google Colab](https://colab.research.google.com/github/aronwalsh/Crystallography/blob/master/Notebook-Part1.ipynb)]
 
 * [Post a Query](https://github.com/aronwalsh/Crystallography/issues)
