@@ -18,4 +18,6 @@ The contents of this electronic resource will be updated throughout the term. Yo
 
 * [Activity Notebook 1](Notebook-Part1.ipynb) [[Live version on Google Colab](https://colab.research.google.com/github/aronwalsh/Crystallography/blob/master/Notebook-Part1.ipynb)]
 
+* [Bonus Exercises](./Exercises)
+
 * [Post a Query](https://github.com/aronwalsh/Crystallography/issues)
