@@ -14,7 +14,7 @@ The contents of this electronic resource will be updated throughout the term. Yo
 
 * [Lecture Slides](./Slides)
 
-* [Lecture Recordings](https://web.microsoftstream.com/user/bc4d5f61-f0c2-44fb-979b-ea605580aa97?view=UserVideos) (ICL access only)
+* Lecture Recordings: [Stream](https://web.microsoftstream.com/user/bc4d5f61-f0c2-44fb-979b-ea605580aa97?view=UserVideos) or [Panopto](https://imperial.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=51998947-bb4e-4e42-88a8-ac6a00f3fb85) (ICL access only)
 
 * [Activity Notebook 1](Notebook-Part1.ipynb) [[Live version on Google Colab](https://colab.research.google.com/github/aronwalsh/Crystallography/blob/master/Notebook-Part1.ipynb)]
 
