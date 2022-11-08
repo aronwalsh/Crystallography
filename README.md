@@ -15,7 +15,9 @@ The contents of this electronic resource will be updated throughout the term. Yo
 
 * Lecture Recordings: [Panopto](https://imperial.cloud.panopto.eu/Panopto/Pages/Sessions/List.aspx?folderID=803ed50c-a156-4514-9b21-aecd0173369c) (ICL access only)
 
-* [Activity Notebook](Notebook-Part1.ipynb) 
+* [Activity Notebook - Part 1](Notebook-Part1.ipynb) 
+
+* [Activity Notebook - Part 2](Notebook-Part2.ipynb) 
 
 * [Bonus Exercises](./Exercises)
 
